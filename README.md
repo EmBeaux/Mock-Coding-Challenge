@@ -14,7 +14,7 @@ TBA
 
 Our site features an index of the top 25 repositories of Github. Each review on the index page links to the Github trending page.
 
-From the index page a user can each repositories details. The details include;
+From the index page a user can see each repositories details. The details include;
 
   - name of project
 
