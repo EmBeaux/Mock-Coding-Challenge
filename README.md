@@ -62,7 +62,7 @@ This is the final step so get ready! We will be checking to make sure that the A
 
   - >localhost:3000/api/v1/repos
 
-If you see a JSON object being returned then that it! The website is ready to be used!
+If you see a JSON object being returned then thats it! The website is ready to be used!
 
 **Outline of technologies used:**
 
