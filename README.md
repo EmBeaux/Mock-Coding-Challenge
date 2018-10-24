@@ -52,7 +52,7 @@ Now that you have everything set up it's time to look boot up the server!
 Start by running the following commands in the terminal;
 
   - >rails s
-  
+
 In a new tab run the following
   - >yarn start
 
@@ -66,7 +66,7 @@ If you see a JSON object being returned then that it! The website is ready to be
 
 **Outline of technologies used:**
 
-Devise
-React
-Postgresql
-Rails
+- Devise
+- React
+- Postgresql
+- Rails
