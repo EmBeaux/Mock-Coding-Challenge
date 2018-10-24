@@ -52,6 +52,7 @@ Now that you have everything set up it's time to look boot up the server!
 Start by running the following commands in the terminal;
 
   - >rails s
+  
 In a new tab run the following
   - >yarn start
 
