@@ -28,15 +28,15 @@ From the index page a user can each repositories details. The details include;
 **Step 1**
 
 When you clone this project from Github the first thing you'll want to do is run the commands;
-  - >bundle install
+  - >bundle install<
 
-  - >yarn install
+  - >yarn install<
 
-  - >rake db:create
+  - >rake db:create<
 
-  - >rake db:migrate
+  - >rake db:migrate<
 
-  - >rake db:seed
+  - >rake db:seed<
 
 **Step 2**
 
